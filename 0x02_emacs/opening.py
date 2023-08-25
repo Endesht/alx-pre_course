@@ -1,1 +1,1 @@
-C-x
+ns-open-file
